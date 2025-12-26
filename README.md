@@ -3,5 +3,7 @@ TestTypeMachine
 
 this is epic work its work via virtualisation
 
+super emulation :)
 
-<img width="804" height="635" alt="image" src="https://github.com/user-attachments/assets/d5f563ec-072a-481d-9ff9-a2d05cd19315" />
+<img width="792" height="620" alt="image" src="https://github.com/user-attachments/assets/9c552952-7f3b-4d5c-bad1-422b2a432767" />
+
