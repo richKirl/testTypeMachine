@@ -5,9 +5,12 @@ this is epic work its work via virtualisation (Rust project)
 
 Notice:
 
-    sdl2::hint::set("SDL_X11_WINDOW_TYPE", "1"); -- set type
+    sdl2::hint::set("SDL_X11_WINDOW_TYPE", "1"); first line before init -- set type
     
     sdl2::hint::set("SDL_VIDEO_DRIVER", "x11"); -- set driver type
+
+    ...
+    init
     
 
 super emulation :)
