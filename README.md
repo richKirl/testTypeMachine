@@ -1,7 +1,7 @@
 # testTypeMachine
 TestTypeMachine
 
-this is epic work its work via virtualisation
+this is epic work its work via virtualisation (Rust project)
 
 super emulation :)
 
