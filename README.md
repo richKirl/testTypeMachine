@@ -18,5 +18,6 @@ Notice:
 
 super emulation :)
 
-<img width="792" height="620" alt="image" src="https://github.com/user-attachments/assets/9c552952-7f3b-4d5c-bad1-422b2a432767" />
+<img width="795" height="624" alt="image" src="https://github.com/user-attachments/assets/8ee954c1-c378-4c08-8c44-8d58f06dcd7f" />
+
 
